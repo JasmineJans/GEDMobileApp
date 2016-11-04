@@ -7,7 +7,7 @@ import android.view.View;
 
 /**
  * Created by jasminejans on 10/29/16.
- * comment
+ * commmment
  */
 
 public class Game extends AppCompatActivity {
