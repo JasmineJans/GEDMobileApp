@@ -17,7 +17,6 @@
 .idea/runConfigurations.xml
 .idea/copyright/
 gradle/wrapper/
-build.gradle
 gradle.properties
 gradlew
 gradlew.bat
